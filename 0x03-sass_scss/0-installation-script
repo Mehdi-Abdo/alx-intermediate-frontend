@@ -1,0 +1,8 @@
+# Step 1: Initialize npm (if needed)
+npm init -y
+
+# Step 2: Install Sass globally
+npm install -g sass
+
+# Step 3: Verify installation
+sass --version
